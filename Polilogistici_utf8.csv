@@ -1,0 +1,31 @@
+ID,REGIONE,CITTA,INDIRIZZO
+MI_1,Lombardia,Milano,Via Ombrate 12
+TO,Piemonte,Torino,Via Roma 23
+RM_1,Lazio,Roma,Via Messina 25
+NA_1,Campania,Napoli,Via Italia 10
+PA,Sicilia,Palermo,Piazza dei 500 snc
+FI,Toscana,Firenze,Via dei Ramni 10
+BO_1,Emilia-Romagna,Bologna,Via Lidia 40
+VE_1,Veneto,Verona,Via De Cesare 15
+MB,Lombardia,Monza,Viale Kant 30
+SA,Campania,Salerno,Via Pastena 11
+ME,Sicilia,Messina,Via dei Frentani 12
+BI,Piemonte,Biella,Via Modena 14
+CN,Piemonte,Cuneo,Via Arturo Graf 19
+FR_1,Lazio,Frosinone,Via dei Gelsi 50
+BG_1,Lombardia,Bergamo,Via delle Acacie 74
+CE,Campania,Caserta,Via dei sette metri 100
+PI,Toscana,Pisa,Via Sabelli 88
+VR,Veneto,Verona,Via Sondrio 15
+MO_1,Emilia-Romagna,Modena,Piazza delle Primule 14
+SI,Toscana,Siena,Via delle sette chiese 74
+MI_2,Lombardia,Milano,Via dell Rose 54
+FE,Emilia-Romagna,Ferrara,Via della Lega Lombarda14
+VE_2,Veneto,Verona,Viale delle province 30
+NA_2,Campania,Napoli,Piazza Roma 10
+RM_2,Lazio,Roma,Via delle viti 69
+BG_2,Lombardia,Bergamo,Via del governo vecchio 88
+MO_2,Lombardia,Monza,Largo Volumnia 10
+VT,Lazio,Viterbo,Via dei Lombardi 41
+BO_2,Emilia-Romagna,Bologna,Via Rosa Carducci 71
+FR_2,Lazio,Frosinone,Via Rosa Jemma 45

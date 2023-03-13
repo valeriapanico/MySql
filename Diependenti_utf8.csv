@@ -1,0 +1,93 @@
+﻿MATRICOLA,COGNOME,MANSIONE,PATENTE,LIVELLO,CITTA,ID_LOG
+1,Panico,Manager,B,6B,Area Nord,RM_1
+2,De Toma, Impiegato,B, 3B, Roma,RM_1
+3,Tesei,Impiegato,B, 3B, Roma,RM_2
+4,Chiappa,Impiegato,B, 3B, Milano0,MI_1
+5,Dionisi,Dirigente,B,8A, Milano,MI_2
+6,De Renzi,Impiegato,B,3B, Milano,MI_1
+7,Rossi,Operaio,B,1A,Firenze,FI_1
+8,De Rossi,Operaio,B,1B,Torino,TO
+9,Bianchi,Operaio,C-CQC,3B,Venezia,VE
+10,Gallo,Operaio,B,2B,Cuneo,CN
+11,Sntina,Operaio,C,3B,Bergamo,BG
+12,Romeo,Impiegato,B,3A,Firenze,FI
+13,Foglia,Operaio,C,3B,Pisa,PI
+14,Troisi,Impiegato,B,3B,Cassino,CA
+15,Arnone,Operaio,C,3B,Verona,VE
+16,Neirotti,Impiegato,B,3B,Pisa,PI
+17,Bernini,Operaio,C-CQC,3B,Modena,MO
+18,Carletti,Operaio,B,1A,Bologna,BO
+19,Rossetti,Dirigente,B,7B,Roma,RM_1
+20,Loretti,Operaio,B,1A,Palermo,PA
+21,Bedini,Operai,B,1B,Caserta,CE
+22,Proietti,Manager,B,6B,Area Centro,RM_2
+23,Luchini,Operaio,C-CQC,3B,Monza,MG
+24,Fedini,Manager,B,6B,Area Isole,ME
+25,Moretti,Operaio,C,3B,Frosinone,FR
+26,Farinelli,Operaio,C-CQC,3B,Biella,BI
+27,Biafora,Operaio,C,3B,Ferrara,FE
+28,Bason,Impiegato,Nessuna,2B,Biella,BI
+29,Zaccardi,Operaio,B,2B,Modena,MO
+30,Bonaccorso,Impiegato,B,3B,Caserta,CE
+31,De Vita,Impiegato,B,3B,Napoli,NA
+32,Lorusso,Operaio,B,2B,Roma,RM_2
+33,De Bianchi,Operaio,B,2B,Roma,RM_1
+34,Lambate,Operaio,C-CQC,3B,Cassino,CA
+35,Lo Bianco,Operaio,C-CQC,3B,Caserta,CE
+36,Rochetti,Operaio,B,2A,Rieti,RM_1
+37,Brunelli,Ispettore,Nessuna,1A,Roma,RM_1
+38,De Sarli,Operaio,B,1B,Bologna,BO
+39,Cappelli,Operaio,C,3B,Bologna,BO
+40,Coppola,Quadro,C,7A,Siena,SI
+41,Ficarra,Impiegato,B,3B,Bologna,BO
+42,Cannizzaro,Impiegato,B,3A,Roma,RM
+43,Cecaro,Quadro,B,7A,Venezia,VE
+44,Muschio,Operaio,C-CQC,3B,Roma,RM_2
+45,Scirazzi,Operaio,C,3B,Verona,VR
+46,Forlano,Operaio,C,3B,roma,RM_2
+47,Merlano,Operaio,C,3B,Roma,RM_1
+48,Lo Bascio,Manager,B,6A,Area Centro,RM_1
+49,Derosa,Impiegato,B,3A,Modena,MO,
+50,Mollica,Operaio,C,3B,Verona,VR
+51,Esposito,Operaio,C-CQC,3B,Milano,MI
+52,Di Caterino,Impiegato,B,3A,Bergamo,BG
+53,Strava,Ispettore,Nessuna,1A,Milano,MI_2
+54,Limoni,Impiegato,B,3B,Verona,VE
+55,Franzoni,Operaio,C-CQC,3B,Salerno,SA
+56,Vitiello,Operaio,C,3B,Firenze,FI
+57,Mangoni,Ispettore,B,1B,Torino,TO
+58,Melito,Ispettore,B,1A,Palermo,PA
+59,Giostra,Operaio,C,3B,Siena,SI
+60,Ferrisi,Operaio,B,2B,Milano,MI_1
+61,Costa,Ispettore,B,1B,Messina,ME
+62,Avallone,Operaio,B,2B,Roma,RM_2
+63,Farina,Operaio,B,1B,Palermo,PA
+64,Bollici,Impiegato,B,3B,Monza,MZ
+65,Guasco,Operaio,B,2B,Milano,MI_1
+66,Italiano,Impiegato,B,3B,Milano,MI_2
+67,Costantini,Ispettore,B,1B,Bergamo,BG
+68,Pietrobono,Ispettore,B,1A,Milano,MI_1
+69,Teodoro,Operaio,B,2B,Roma,RM_2
+70,Lodi,Operaio,C,3B,Roma,RM_1
+71,Franchi,Impiegato,B,3B,Cuneo,CN
+72,Rosati,Ispettore,B,1B,Salerno,SA
+73,Paciotti,Operaio,C-CQC,3B,Cssino,CA
+74,Landi,Operaio,C-CQC,3B,Bergamo,BG
+75,Cedro,Operaio,B,1B,Biella,BI
+76,Napoli,Ispettore,Nessuna,1A,Cassino,CA
+77,De Caro,Impiegato,B,2B,Messina,ME
+78,Rosselli,Operaio,C-CQC,3B,Cassino,CA
+79,Fiore,Operaio,C,3B,Frosinone,FR
+80,Lombardi,Operaio,B,1A,Bergamo,BG
+81,Manna,Operaio,B,2A,Roma,RM_1
+82,Mannocchi,Ispettore,B,1A,Frosinone,FR
+83,Sammatrice,Impiegato,B,3B,Ferrara,FE
+84,Caruso,Impiegato,3,Nessuna,2B,Torino,TO
+85,De Luca,Operaio,B,2B,Bergamo,BG
+86,Trecci,Operaio,B,2B,Roma,RM_2
+87,Ciprio,Impiegato,Nessuna,1B,Biella,BI
+88,Gambetti,Operaio,C-CQC,3B,Milano,MI_1
+89,Accetta,Impiegato,B,2B,Milano,MI_2
+90,Romano,Operaio,B,1A,Torino,TO
+91,Farina,Operaio,B,1B,Napoli,NA
+92,Vernengo,Operaio,B,2B,Roma,RM_2
